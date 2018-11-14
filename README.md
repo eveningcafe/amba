@@ -38,7 +38,7 @@ wget http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu14/HDP-
 Tổng 3 file tầm 10GB
 - Tạo local repo:
 
-
+https://github.com/trananhkma/Local-Repository
 
 2) Thiết lập ambari dùng local repo
 
